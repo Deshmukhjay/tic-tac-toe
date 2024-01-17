@@ -1,1 +1,1 @@
-# jay-deshmukh
+This is a simple implementation of the classic game Tic Tac Toe using HTML,CSS,JS. The game allows two players to take turns marking spaces on a 3x3 grid with their respective symbols (X and O) until one player wins or the game ends in a draw.
